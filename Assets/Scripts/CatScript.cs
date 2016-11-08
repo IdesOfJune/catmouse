@@ -7,7 +7,7 @@ public class CatScript : MonoBehaviour {
 	Vector3 directionToMouse; 
 	Rigidbody catrb;  
 	public float thrust = 20f; 
-	float raySize = 40f; 
+	float raySize = 30f; 
 	public AudioSource catNoise; 
 
 	// Use this for initialization
